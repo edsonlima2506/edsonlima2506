@@ -1,6 +1,6 @@
 # Bem-Vindo ao meu perfil!
 
-🧑🏾 Prazer, meu nome é Edson! Sou programador Front-End nível pleno <br>
+🧑🏾 Prazer, meu nome é Edson! Sou programador Front-End nível Jr. <br>
 além de dev, sou CEO e CFO de uma startup de tecnologia!
 
 <div style="display: flex">
