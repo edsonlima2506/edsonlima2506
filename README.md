@@ -3,6 +3,8 @@
 🧑🏾 Prazer, meu nome é Edson! Sou programador Front-End nível Jr. <br>
 além de dev, sou CEO e CFO de uma startup de tecnologia!
 
+👨🏽‍🎓 Cursando Desenvolvimento Web na Trybe!
+
 <div style="display: flex">
   <a href="https://github.com/edsonlima2506">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonlima2506&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
