@@ -24,7 +24,7 @@ além de dev, sou CEO e CFO de uma startup de tecnologia!
   <div style="display: inline_block"><br>
     <h1>Versionamento</h1>
   <img align="center" alt="Edson-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Edson-GitHub" height="30" width="40" src="https://www.flaticon.com/premium-icon/icons/svg/536/536452.svg" />
+  <img align="center" alt="Edson-GitHub" height="30" width="40" src="https://static.imasters.com.br/wp-content/uploads/2013/01/121.png" />
   </div>
   <div style="display: inline_block"><br>
     <h1>Design</h1>
