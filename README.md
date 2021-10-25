@@ -17,7 +17,7 @@ além de dev, sou CEO e CFO de uma startup de tecnologia!
   <img align="center" alt="Edson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
   <div style="display: inline_block"><br>
-    <h1>Frameworks/Bibliotecas
+    <h1>Frameworks/Bibliotecas</h1>
   <img align="center" alt="Edson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Edson-NodeJs" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   </div>
