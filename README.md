@@ -35,6 +35,7 @@ além de dev, sou CEO e CFO de uma startup de tecnologia!
     <h1>Design</h1>
   <img align="center" alt="Edson-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="Edson-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  <img align="center" alt="Edson-Behance" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
   </div>
 
   
