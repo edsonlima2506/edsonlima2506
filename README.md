@@ -9,8 +9,8 @@ além de dev, sou CEO e CFO de uma startup de tecnologia!
 
 <div style="display: flex">
   <a href="https://github.com/edsonlima2506">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=edsonlima2506&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonlima2506&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonlima2506&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonlima2506&layout=compact&langs_count=7&theme=tokyonight"/>
     
   <div style="display: inline_block"><br>
     <h1>Linguagens</h1>
