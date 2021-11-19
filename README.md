@@ -5,7 +5,7 @@ além de dev, sou CEO e CFO de uma startup de tecnologia!
 
 👨🏽‍🎓 Cursando Desenvolvimento Web na Trybe!
 
-✊🏾 Fundador da comunidade Black Code! 🖤 🖤
+✊🏾 Fundador da comunidade <a href="https://www.instagram.com/blaackcode/">Black Code!</a> 🖤 🖤
 
 <div style="display: flex">
   <a href="https://github.com/edsonlima2506">
