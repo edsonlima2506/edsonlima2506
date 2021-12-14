@@ -3,7 +3,7 @@
 🧑🏾 Prazer, meu nome é Edson! Sou programador Front-End nível Jr. <br>
 além de dev, sou CEO e Co-Founder da Tower Empreendimentos!
 
-👨🏽‍🎓 Cursando Desenvolvimento Web na Trybe!
+👨🏽‍🎓 Desenvolvedor Front-End formado pela Trybe!
 
 ✊🏾 Fundador da comunidade <a href="https://www.instagram.com/blaackcode/" target="_blank">Black Code!</a> 🖤 🖤
 
