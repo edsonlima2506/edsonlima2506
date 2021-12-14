@@ -1,7 +1,7 @@
 # Bem-Vindo(a) ao meu perfil!
 
 🧑🏾 Prazer, meu nome é Edson! Sou programador Front-End nível Jr. <br>
-além de dev, sou CEO e CFO da Tower Empreendimentos!
+além de dev, sou CEO e Co-Founder da Tower Empreendimentos!
 
 👨🏽‍🎓 Cursando Desenvolvimento Web na Trybe!
 
