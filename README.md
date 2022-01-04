@@ -1,4 +1,8 @@
-# Bem-Vindo(a) ao meu perfil!
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!,+Bem-Vindo(a)+👋;Sou+Edson+Lima;Desenvolvedor+Front-Endcenter&=true&size=30">
+  </a>
+</h1>
 
 🧑🏾 Prazer, meu nome é Edson! Sou programador Front-End nível Jr. <br>
 além de dev, sou CEO e Co-Founder da Tower Empreendimentos!
