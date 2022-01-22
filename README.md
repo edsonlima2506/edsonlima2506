@@ -17,17 +17,17 @@ além de dev, sou CEO e Co-Founder da Tower Empreendimentos! - Desenvolvedora do
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonlima2506&layout=compact&langs_count=7&theme=tokyonight"/>
     
   <div style="display: inline_block"><br>
-    <h1>Linguagens</h1>
-  <img align="center" alt="Edson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Edson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Edson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Edson-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <h1>Front-End</h1>
+    <img align="center" alt="Edson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Edson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Edson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Edson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Edson-Redux" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   </div>
   <div style="display: inline_block"><br>
-    <h1>Frameworks/Bibliotecas</h1>
-  <img align="center" alt="Edson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img align="center" alt="Edson-Redux" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" alt="Edson-NodeJs" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <h1>Back-End</h1>
+    <img align="center" alt="Edson-NodeJs" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img align="center" alt="Edson-Docker" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   </div>
   <div style="display: inline_block"><br>
     <h1>Versionamento</h1>
