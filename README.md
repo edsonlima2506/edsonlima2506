@@ -28,7 +28,7 @@ além de dev, sou CEO e Co-Founder da Tower Empreendimentos! - Desenvolvedora do
     <h1>Back-End</h1>
     <img align="center" alt="Edson-NodeJs" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center" alt="Edson-Docker" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-    <img align="center" alt="Edson-MySQL" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img align="center" alt="Edson-MySQL" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   </div>
   <div style="display: inline_block"><br>
     <h1>Versionamento</h1>
