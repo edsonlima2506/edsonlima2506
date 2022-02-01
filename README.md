@@ -5,7 +5,7 @@
 </h1>
 
 🧑🏾 Prazer, meu nome é Edson! Sou programador Front-End nível Jr. <br>
-além de dev, sou CEO e Co-Founder da Tower Empreendimentos! - Desenvolvedora do <a href="https://www.instagram.com/descontemais/">DesconteMais</a>
+além de dev, sou CEO e Co-Founder da <a href="https://www.linkedin.com/company/tower-empreendimentos/">Tower Empreendimentos!</a> - Desenvolvedora do <a href="https://www.instagram.com/descontemais/">DesconteMais</a>
 
 👨🏽‍🎓 Desenvolvedor Front-End formado pela Trybe!
 
