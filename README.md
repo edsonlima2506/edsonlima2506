@@ -30,11 +30,6 @@ além de dev, sou CEO e Co-Founder da <a href="https://www.linkedin.com/company/
     <img align="center" alt="Edson-Docker" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
     <img align="center" alt="Edson-MySQL" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   </div>
-  <div style="display: inline_block"><br>
-    <h1>Versionamento</h1>
-  <img align="center" alt="Edson-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Edson-GitHub" height="40" width="40" src="https://static.imasters.com.br/wp-content/uploads/2013/01/121.png" />
-  </div>
     <div style="display: inline_block"><br>
     <h1>Testes</h1>
   <img align="center" alt="Edson-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
