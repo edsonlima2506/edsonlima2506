@@ -29,6 +29,7 @@ além de dev, sou CEO e Co-Founder da <a href="https://www.linkedin.com/company/
     <img align="center" alt="Edson-NodeJs" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center" alt="Edson-Docker" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
     <img align="center" alt="Edson-MySQL" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img align="center" alt="Edson-MySQL" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   </div>
     <div style="display: inline_block"><br>
     <h1>Testes</h1>
