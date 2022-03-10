@@ -7,6 +7,8 @@
   🧑🏾 Prazer, meu nome é Edson! Sou desenvolvedor Full-Stack <br>
 além de dev, sou CEO e Co-Founder da <a href="https://www.linkedin.com/company/tower-empreendimentos/">Tower Empreendimentos!</a> - Desenvolvedora do <a href="https://www.instagram.com/descontemais/">DesconteMais</a>
 
+🐼 Dev Full-Stack na PandôApps
+
 👨🏽‍🎓 Desenvolvedor Front-End formado pela Trybe!
 
 ✊🏾 Fundador da comunidade <a href="https://www.instagram.com/blaackcode/" target="_blank">Black Code!</a> 🖤 🖤
