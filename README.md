@@ -8,9 +8,11 @@
 
 🐼 Dev Full-Stack na PandôApps
 
+🌃 CEO e Dev Full-Stack na <a href="https://www.instagram.com/tower_empreendimentos/" target="_blank">Tower Empreendimentos</a>
+
 👨🏽‍🎓 Desenvolvedor Front-End formado pela Trybe!
 
-✊🏾 Fundador da comunidade <a href="https://www.instagram.com/blaackcode/" target="_blank">Black Code!</a> 🖤 🖤
+✊🏾 Fundador da comunidade <a href="https://www.instagram.com/blaackcode/" target="_blank">Black Code!</a>
 
 <div style="display: flex">
   <a href="https://github.com/edsonlima2506">
