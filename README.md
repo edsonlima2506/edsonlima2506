@@ -27,6 +27,7 @@
     <img align="center" alt="Edson-Boots" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img align="center" alt="Edson-Boots" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />   
     <img align="center" alt="Edson-Boots" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+    <img  align="center" alt="Edson-Boots" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
     </div>
   <div style="display: inline_block"><br>
     <h1>Back-End</h1>
