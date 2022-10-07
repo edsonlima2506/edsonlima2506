@@ -30,10 +30,11 @@
     </div>
   <div style="display: inline_block"><br>
     <h1>Back-End</h1>
+    <img align="center" alt="Edson-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="center" alt="Edson-NodeJs" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center" alt="Edson-Docker" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
     <img align="center" alt="Edson-MySQL" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-    <img align="center" alt="Edson-MySQL" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+    <img align="center" alt="Edson-PHP" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
     <img  align="center" alt="Edson-type" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   </div>
    <div>
