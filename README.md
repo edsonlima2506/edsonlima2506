@@ -19,8 +19,18 @@
     
   <div style="display: inline_block"><br>
     <h1>🎓 Certificações</h1>
-    
-  <img align="center" alt="Edson-Boots" height="300" width="300" src="https://user-images.githubusercontent.com/81549048/196317539-144f7f8b-2694-4d3b-b3d9-cc3973666bca.png" />
+
+  <div style="display: flex">
+    <img align="center" style="border-radius: 15px" alt="Edson-Boots" height="300" width="300" src="https://user-images.githubusercontent.com/81549048/196317539-144f7f8b-2694-4d3b-b3d9-cc3973666bca.png" />
+  
+  <img align="center" style="border-radius: 15px" alt="Edson-Boots" height="300" width="300" src="https://user-images.githubusercontent.com/81549048/196319084-0dfdc029-37dc-4fbf-a7f8-d72f57d26298.png" />
+  <div>
+  
+  <div style="display: flex">
+    <img align="center" style="border-radius: 15px" alt="Edson-Boots" height="300" width="300" src="https://user-images.githubusercontent.com/81549048/196319192-96edaa6b-4c33-4ac0-b046-88470f011d37.png" />
+  
+  <img align="center" style="border-radius: 15px" alt="Edson-Boots" height="300" width="300" src="https://user-images.githubusercontent.com/81549048/196319251-b721f8f7-4b2a-4390-83b3-e68d2f5c5c62.png" />
+  <div>
   </div>
     
   <div style="display: inline_block"><br>
