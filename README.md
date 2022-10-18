@@ -20,7 +20,7 @@
   <div style="display: inline_block"><br>
     <h1>🎓 Certificações</h1>
     
-  <img align="center" alt="Edson-Boots" height="100" width="100" src="https://user-images.githubusercontent.com/81549048/196317539-144f7f8b-2694-4d3b-b3d9-cc3973666bca.png" />
+  <img align="center" alt="Edson-Boots" height="300" width="300" src="https://user-images.githubusercontent.com/81549048/196317539-144f7f8b-2694-4d3b-b3d9-cc3973666bca.png" />
   </div>
     
   <div style="display: inline_block"><br>
