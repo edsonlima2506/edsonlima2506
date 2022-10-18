@@ -8,7 +8,7 @@
 
 🐼 Dev Full-Stack na PandôApps
 
-👨🏽‍🎓 Desenvolvedor Front-End formado pela Trybe!
+👨🏽‍🎓 Estudante da Trybe!
 
 ✊🏾 Fundador da comunidade <a href="https://www.instagram.com/blaackcode/" target="_blank">Black Code!</a>
 
@@ -16,6 +16,13 @@
   <a href="https://github.com/edsonlima2506">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonlima2506&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonlima2506&layout=compact&langs_count=7&theme=tokyonight"/>
+    
+  <div style="display: inline_block"><br>
+    <h1>🎓 Certificações</h1>
+    
+    ![certification](https://user-images.githubusercontent.com/81549048/196317539-144f7f8b-2694-4d3b-b3d9-cc3973666bca.png)
+
+  </div>
     
   <div style="display: inline_block"><br>
     <h1>Front-End</h1>
