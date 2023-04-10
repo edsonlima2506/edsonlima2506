@@ -8,7 +8,9 @@
 
 🐼 Dev Full-Stack na PandôApps
 
-👨🏽‍🎓 Estudante da Trybe!
+👨🏽‍🎓 Formado em Desenvolvimento Web na Trybe!
+
+👨🏽‍🎓 Formado em Técnico em Mecatrônica no SENAI!
 
 ✊🏾 Fundador da comunidade <a href="https://www.instagram.com/blaackcode/" target="_blank">Black Code!</a>
 
