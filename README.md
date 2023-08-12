@@ -1,39 +1,21 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+Bem-Vindo(a)+👋;Sou+Edson+Lima;Dev+Full-Stack&=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+Welcome+👋;I'm+Edson+Lima;Dev+Full-Stack&=true&size=30">
   </a>
 </h1>
 
-  🧑🏾 Prazer, meu nome é Edson!
+🧑🏾 Nice to meet you, I'm Edson!
 
-🐼 Dev Full-Stack na PandôApps
+🖥️ Dev Full-Stack at Proload
 
-👨🏽‍🎓 Formado em Desenvolvimento Web na Trybe!
+👨🏽‍🎓 Graduated from the largest programming school in Latin America, Trybe!
 
-👨🏽‍🎓 Formado em Técnico em Mecatrônica no SENAI!
-
-✊🏾 Fundador da comunidade <a href="https://www.instagram.com/blaackcode/" target="_blank">Black Code!</a>
+✊🏾 Founder <a href="https://www.instagram.com/blaackcode/" target="_blank">Black Code!</a>
 
 <div style="display: flex">
   <a href="https://github.com/edsonlima2506">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonlima2506&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonlima2506&layout=compact&langs_count=7&theme=tokyonight"/>
-    
-  <div style="display: inline_block"><br>
-    <h1>🎓 Certificações</h1>
-
-  <div style="display: flex">
-    <img align="center" style="border-radius: 15px" alt="Edson-Boots" height="300" width="300" src="https://user-images.githubusercontent.com/81549048/196317539-144f7f8b-2694-4d3b-b3d9-cc3973666bca.png" />
-  
-  <img align="center" style="border-radius: 15px" alt="Edson-Boots" height="300" width="300" src="https://user-images.githubusercontent.com/81549048/196319084-0dfdc029-37dc-4fbf-a7f8-d72f57d26298.png" />
-  <div>
-  
-  <div style="display: flex">
-    <img align="center" style="border-radius: 15px" alt="Edson-Boots" height="300" width="300" src="https://user-images.githubusercontent.com/81549048/196319192-96edaa6b-4c33-4ac0-b046-88470f011d37.png" />
-  
-  <img align="center" style="border-radius: 15px" alt="Edson-Boots" height="300" width="300" src="https://user-images.githubusercontent.com/81549048/196319251-b721f8f7-4b2a-4390-83b3-e68d2f5c5c62.png" />
-  <div>
-  </div>
     
   <div style="display: inline_block"><br>
     <h1>Front-End</h1>
